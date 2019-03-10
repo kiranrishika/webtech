@@ -13,6 +13,6 @@ r=in.nextInt();
 t= in.nextInt();
 	dist=Math.abs(r-x)+Math.abs(t-y);
 	System.out.println("the distance is "+dist);
-		System.out.println("the end");
+		System.out.println("The end");
 	}
 }
